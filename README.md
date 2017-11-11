@@ -1,2 +1,6 @@
 # test
-just testing out git with Unity. =)
+This is my first try to use Git and Github. 
+
+This test project is an old attempt to make a Game of life like 3d visualization with VR-support.
+
+Enjoy!
